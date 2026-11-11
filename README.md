@@ -12,8 +12,8 @@ under **Assets**. Download only the file for your computer:
 
 | Your computer | Direct download |
 |---|---|
-| Mac with Apple Silicon (M1 or newer), macOS 11+ | [PFAS-LEACH-Education-macOS-AppleSilicon.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/education-2026.11.10/PFAS-LEACH-Education-macOS-AppleSilicon.zip) |
-| Windows 10 or 11 (64-bit) | [PFAS-LEACH-Education-Windows-x64.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/education-2026.11.10/PFAS-LEACH-Education-Windows-x64.zip) |
+| Mac with Apple Silicon (M1 or newer), macOS 11+ | [PFAS-LEACH-Education-macOS-AppleSilicon.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/latest/download/PFAS-LEACH-Education-macOS-AppleSilicon.zip) |
+| Windows 10 or 11 (64-bit) | [PFAS-LEACH-Education-Windows-x64.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/latest/download/PFAS-LEACH-Education-Windows-x64.zip) |
 
 > You do **not** need "Source code (zip)" or "Source code (tar.gz)". GitHub
 > adds those automatically, and they contain only this README.
