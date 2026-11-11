@@ -1,4 +1,4 @@
-# PFAS-LEACH High School (classroom edition)
+# PFAS-LEACH High School 
 
 PFAS-LEACH Tier 3 & 4 is a desktop app for estimating how PFAS in soil leaches
 to groundwater. It comes from the Guo Lab at the University of Arizona. This
