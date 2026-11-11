@@ -1,4 +1,4 @@
-# PFAS-LEACH High School 
+# PFAS-LEACH High School (classroom edition)
 
 PFAS-LEACH Tier 3 & 4 is a desktop app for estimating how PFAS in soil leaches
 to groundwater. It comes from the Guo Lab at the University of Arizona. This
@@ -9,6 +9,15 @@ edition is simplified for classroom use.
 Download the latest zip from the
 [Releases page](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/latest),
 under **Assets**.
+
+> **Download only the file for your computer:**
+> `PFAS-LEACH-...-macOS-AppleSilicon_....zip` for Mac, or
+> `PFAS-LEACH-...-Windows-....zip` for Windows (when available).
+> You do **not** need "Source code (zip)" or "Source code (tar.gz)". GitHub
+> adds those automatically, and they contain only this README.
+
+Direct download for Mac:
+[PFAS-LEACH-v0.2.0-Education-macOS-AppleSilicon_11.10.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/v0.2.0-classroom-2026.11.10/PFAS-LEACH-v0.2.0-Education-macOS-AppleSilicon_11.10.zip)
 
 ## Requirements
 
