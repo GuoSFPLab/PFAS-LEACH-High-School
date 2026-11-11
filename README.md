@@ -6,28 +6,22 @@ Education Edition is simplified for classroom use.
 
 ## Download
 
-Download the latest zip from the
+Download from the
 [Releases page](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/latest),
-under **Assets**.
+under **Assets**. Download only the file for your computer:
 
-> **Download only the file for your computer:**
-> `PFAS-LEACH-...-macOS-AppleSilicon_....zip` for Mac, or
-> `PFAS-LEACH-...-Windows-....zip` for Windows (when available).
+| Your computer | Direct download |
+|---|---|
+| Mac with Apple Silicon (M1 or newer), macOS 11+ | [PFAS-LEACH-Education-macOS-AppleSilicon_11.10.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/education-2026.11.10/PFAS-LEACH-Education-macOS-AppleSilicon_11.10.zip) |
+| Windows 10 or 11 (64-bit) | [PFAS-LEACH-Education-Windows-x64_11.10.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/education-2026.11.10/PFAS-LEACH-Education-Windows-x64_11.10.zip) |
+
 > You do **not** need "Source code (zip)" or "Source code (tar.gz)". GitHub
 > adds those automatically, and they contain only this README.
 
-Direct download for Mac:
-[PFAS-LEACH-Education-macOS-AppleSilicon_11.10.zip](https://github.com/GuoSFPLab/PFAS-LEACH-High-School/releases/download/education-2026.11.10/PFAS-LEACH-Education-macOS-AppleSilicon_11.10.zip)
+No Python installation or internet connection is needed. The Mac version does
+not run on Intel Macs.
 
-## Requirements
-
-- A Mac with Apple Silicon (M1, M2, M3, M4 or newer)
-- macOS 11 or later
-
-It does not run on Intel Macs or Windows. No Python installation or internet
-connection is needed.
-
-## Install
+## Install on Mac
 
 1. Unzip the download and open `PFAS-LEACH-macOS-arm64.dmg`.
 2. Drag `PFAS-LEACH.app` into the **Applications** folder.
@@ -42,6 +36,19 @@ once:
 - **macOS 11 to 14:** right-click `PFAS-LEACH.app`, choose **Open**, then
   click **Open** again.
 
-After that, the app opens normally. It shows PFAS-LEACH in your web browser
-and runs entirely on your own computer. Click **User Guide** on the Overview
-page for the full manual.
+## Install on Windows
+
+1. Right-click the downloaded zip and choose **Extract All**. Do not run the
+   app from inside the zip.
+2. Open the extracted folder, then open `PFAS-LEACH` and double-click
+   `PFAS-LEACH.exe`.
+3. If Windows shows "Windows protected your PC", click **More info**, then
+   **Run anyway**. This happens because the app is not code-signed.
+
+Keep all extracted files together. The app needs every file in that folder.
+
+## Using the app
+
+The app opens PFAS-LEACH in your web browser and runs entirely on your own
+computer. Click **User Guide** on the Overview page for the full manual.
+Closing the last PFAS-LEACH browser tab stops the app.
