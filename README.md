@@ -40,8 +40,10 @@ once:
 
 1. Right-click the downloaded zip and choose **Extract All**. Do not run the
    app from inside the zip.
-2. Open the extracted folder, then open `PFAS-LEACH` and double-click
-   `PFAS-LEACH.exe`.
+2. In the extracted files, open the folder
+   `PFAS-LEACH-Education-Windows-x64`, then `PFAS-LEACH`, and double-click
+   `PFAS-LEACH.exe`:
+   `PFAS-LEACH-Education-Windows-x64\PFAS-LEACH\PFAS-LEACH.exe`
 3. If Windows shows "Windows protected your PC", click **More info**, then
    **Run anyway**. This happens because the app is not code-signed.
 
